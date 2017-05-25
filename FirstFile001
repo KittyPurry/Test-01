@@ -1,0 +1,6 @@
+include system.io;
+
+Public void class Main()
+{
+  
+}
